@@ -1,0 +1,4 @@
+name: Drupal up phpcs wrong code
+description: 'Example of some errors that could be avoided with phpcs'
+type: module
+core: 8.x
