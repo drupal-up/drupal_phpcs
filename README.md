@@ -32,6 +32,7 @@ in this project we have it already in the composer.json file
 ```
 
 ## Be able to run codesniffer locally:
+(if you cloned this repo and want to try it - run composer install first)
 
 ```
  ./vendor/bin/phpcs
