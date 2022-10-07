@@ -6,9 +6,6 @@
   <rule ref="Drupal"/>
   <rule ref="DrupalPractice"/>
 
-  <!-- Include path with the Drupal and DrupalPractice rules. -->
-  <config name="installed_paths" value="vendor/drupal/coder/coder_sniffer"/>
-
   <!-- Set ignore extensions. -->
   <!-- @todo remove .css to check also the css files. -->
   <!-- @see https://www.drupal.org/node/2867601#comment-12075633 -->
